@@ -18,7 +18,6 @@ INSTALLED_APPS = (
     # material apps
     'material',
     'material.frontend',
-    'material.admin',
 
     # standard django apps
     'django.contrib.admin',

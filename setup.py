@@ -42,7 +42,6 @@ setup(
         'material.frontend.migrations',
         'material.frontend.templatetags',
         'material.frontend.views',
-        'material.admin',
     ],
     include_package_data=True,
     zip_safe=False,
